@@ -1,0 +1,8 @@
+{
+    "uuid": "sound-output-chooser@peterrhone.github.io",
+    "name": "Sound Output Chooser",
+    "description": "A GNOME Shell extension to quickly select audio output devices from the system tray.",
+    "version": 0.1,
+    "shell-version": ["45","46","47","48","49"],
+    "url": "https://github.com/peterrhone/sound-output-chooser"
+}
